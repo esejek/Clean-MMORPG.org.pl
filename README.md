@@ -16,7 +16,9 @@ w momencie wejścia z aktywnym roszerzeniem na stronę wystarczy kliknać na iko
 
 ***
 
-2) Dodanie reguł blokujących do programu Adblock Plus (Ustawienia -> Zawwansowane -> filtry nieestandarowe -> mój zestaw filtrów)
+2) Dodanie reguł blokujących do programu Adblock Plus 
+
+(Ustawienia -> Zawwansowane -> filtry nieestandarowe -> mój zestaw filtrów)
 
 `@@||lib.wtg-ads.com/publisher/mmorpg.org.pl/lib.min.js`
 
