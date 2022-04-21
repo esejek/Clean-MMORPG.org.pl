@@ -1,0 +1,3 @@
+@@||lib.wtg-ads.com/publisher/mmorpg.org.pl/lib.min.js
+
+@@||mmorpg.org.pl/scripts/ads1.js
