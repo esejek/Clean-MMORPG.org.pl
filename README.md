@@ -12,7 +12,7 @@ oraz [Adblock Plusem](https://chrome.google.com/webstore/detail/adblock-plus-fre
 
 w momencie wejścia z aktywnym roszerzeniem na stronę wystarczy kliknać na ikonkę rozszerzenia i wcisnąć 
 
-"Napisz styl dla https://mmorpg.org.pl" po czym wkleić treść pliku .css w okinko które wyskoczy
+"Napisz styl dla https://mmorpg.org.pl" po czym wkleić treść pliku .css w okienko które wyskoczy
 
 ***
 
